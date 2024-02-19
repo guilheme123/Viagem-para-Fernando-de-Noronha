@@ -21,5 +21,8 @@ const styles = StyleSheet.create({
     textAlign: 'center',
     padding: 10,
   },
+  texto: {
+    margin: 10,
+  }
 
 })
